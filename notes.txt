@@ -1,3 +1,9 @@
+New message here
+
+Start of lab b
+
+Second part of exercise 1
+
 You can use this file to jot down quick notes during the labs.  Try adding, editing and deleting lines and observe how Git detects and records these changes.
 
 Hello Cristi!
